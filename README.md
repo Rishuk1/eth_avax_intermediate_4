@@ -11,8 +11,8 @@ Degen Gaming has chosen the Avalanche blockchain for this project, leveraging it
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rishuk1/eth_Avax_repo_module_4_final.git
-   cd eth_avax_intermediate_module_4_final
+   git clone https://github.com/Rishuk1/eth_avax_intermediate_4.git
+   cd eth_avax_intermediate_4
    ```
 2. Install dependencies:
    ```bash
